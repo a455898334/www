@@ -1,0 +1,12 @@
+</div>
+</div>
+<footer>
+  <br \>
+  <p class="pull-right"><a href="#">Back to top</a></p>
+  <p>&copy; 2014 Shan Shi</p>
+</footer>
+<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="/static/js/bootstrap.min.js"></script>
+<script src="/static/js/javascript.js"></script>  
+</body>
+</html>

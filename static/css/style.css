@@ -1,0 +1,47 @@
+.affix {
+    position: fixed;
+    width:100%;
+    top:0;
+}
+.nav-wrapper{
+    min-height:66px;
+    background:#eee;
+}
+.navbar-default{
+    margin-bottom:0;
+}
+.masthead{
+    background:#333;
+    margin-bottom:0;
+    color:#FFFFFF;
+}
+
+.background{
+    background:#eee;
+}
+.navbar{
+    -webkit-box-shadow:0 5px 10px #000;
+    -moz-box-shadow:0 5px 10px #000;
+    box-shadow:0 5px 10px #000;
+}
+.rowcontainer{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+.row{
+    background:#fff;
+    -webkit-box-shadow:0 0px 10px #000;
+    -moz-box-shadow:0 0px 10px #000;
+    box-shadow:0 0px 10px #000;
+}
+
+body{
+    background:#eee;
+    padding-bottom:0;
+}
+
+footer{
+    background:#eee;
+}
